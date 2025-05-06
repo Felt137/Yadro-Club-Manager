@@ -22,7 +22,7 @@ cmake ..
 make
 
 # Запуск
-./club_manager ../path/to/input.txt
+./main ../path/to/input.txt
 ./tests
 ```
 
